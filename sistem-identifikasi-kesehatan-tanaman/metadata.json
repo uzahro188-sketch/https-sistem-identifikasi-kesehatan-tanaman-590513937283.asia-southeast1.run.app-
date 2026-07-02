@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Identifikasi Kesehatan Tanaman",
+  "description": "Sistem identifikasi kesehatan tanaman (sehat/sakit) berbasis pengolahan citra digital dan kecerdasan buatan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
